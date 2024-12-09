@@ -14,8 +14,12 @@ Went over JS and html syntax. Tried writing code in google js console. Set up th
 
 ### 9.12.24  
 JavaScript runs in the order it appears in your HTML file. To avoid issues:
-
-1. Place <script> tags at the end of the <body> (simple approach).
-2. Use defer or DOMContentLoaded for more control in larger projects.
-
+  1. Place <script> tags at the end of the <body> (simple approach).
+  2. Use defer or DOMContentLoaded for more control in larger projects.
 This ensures your JavaScript code interacts with elements that are already loaded into the DOM.
+
+Covered variables in JS  
+
+JavaScript is a "dynamically typed language", which means that, unlike some other languages, you don't need to specify what data type a variable will contain.  
+
+
