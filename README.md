@@ -26,3 +26,18 @@ JavaScript is a "dynamically typed language", which means that, unlike some othe
 ### 9.12.24  
 Variables declared OUTSIDE the block or a function are LOCAL variables 
 Variables declared INSIDE the block or a function are GLOBAL variables 
+ 
+Built in objects 
+Built-in objects, or “global objects”, are those built into the language specification itself. There are numerous built-in objects with the JavaScript language, all of which are accessible at the global scope. They are used to speed up coding by performing certain actions with/out variables through METHODS or by returning information about variables through PROPERTIES. 
+ 
+Built-in objects are equivalent of other programming languages built-in functions. Some examples are: 
+ 
+Number 
+Math 
+Date 
+String 
+Error 
+Function 
+Boolean 
+ 
+Full list: [text](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
