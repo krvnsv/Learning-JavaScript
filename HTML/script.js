@@ -73,6 +73,20 @@ alert(user["likes birds"]); // true
 delete user["likes birds"];
 
 
+//typeof operator
+console.log(typeof 42);
+// Expected output: "number"
+
+console.log(typeof 'blubber');
+// Expected output: "string"
+
+console.log(typeof true);
+// Expected output: "boolean"
+
+console.log(typeof undeclaredVariable);
+// Expected output: "undefined"
+
+
 //For loop to access key names and their values
 for (let key in user) {
     // keys
@@ -80,3 +94,4 @@ for (let key in user) {
     // values for the keys
     document.write( "<br>" + user[key] + "<br>"); // John, 30, true
   }
+
