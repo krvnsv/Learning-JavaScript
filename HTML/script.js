@@ -12,7 +12,7 @@ buttonA.onclick = () => {
     count += 1;
 };
 
-let myName;  //'var' is almost the same as 'let' but old and error prone
+var myName;  //'var' is almost the same as 'let' but old and error prone
 
 myName = "Kirill";  //string
 

@@ -23,3 +23,6 @@ Covered variables in JS
 JavaScript is a "dynamically typed language", which means that, unlike some other languages, you don't need to specify what data type a variable will contain.  
 
 
+### 9.12.24  
+Variables declared OUTSIDE the block or a function are LOCAL variables 
+Variables declared INSIDE the block or a function are GLOBAL variables 
