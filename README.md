@@ -1,5 +1,5 @@
 # Learning-JavaScript
-Getting the feel of JS to see if its a suitable career path for me
+Getting the feel of JS
 
 ### 6.12.24 
 Today i went over introduction to JavaScript and researched the language.  
